@@ -1632,5 +1632,75 @@ input::-moz-placeholder {
   position: static
 }
 
+/* 記事下の署名を非表示に */
+.entry-footer-section {
+display: none;
+}
+
+/* 目次の装飾 */
+p.index {
+  background: #f8f5f0;
+  -webkit-transition: none;
+  transition: none;
+  padding:25px 25px 25px 25px;
+  width: 80%;
+  margin: 5px auto 20px auto;
+}
+p.index-title {
+  margin: 1em 0 1.8em 0;
+  line-height: 1.2;
+  text-align: center;
+  width: 86%;
+  margin: auto auto;
+  border-bottom:3px dotted /* 下線 */
+}
+.index-title:before {
+  content: "\270e ";
+  font-size: 200%;
+  font-weight: normal;
+}
+
+/* 記事下ソーシャルボタンのセンタリング */
+.social-buttons {
+  text-align: center;
+}
+
+/* パンくずリストのセンタリング */
+.breadcrumb-inner {
+  text-align: center;
+}
+
+/* モジュール「最新記事」のフォントサイズ変更 */
+ul.recent-entries {
+    width:100%;
+    font-size:14px;
+}
+
+/* モジュール「最新記事」のサムネイルを丸く */
+.urllist-with-thumbnails li .urllist-image {
+width: 100px;
+height: 100px;
+border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+}
+
+/* アーカイブページのサムネイルを丸く */
+.page-archive .entry-thumb {
+width: 150px;
+height: 150px;
+border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+
+/* プロフィールのアイコンを丸く */
+.profile-icon {
+width: 64px;
+height: 64px;
+border-radius: 64px;
+  -webkit-border-radius: 64px;
+  -moz-border-radius: 64px;
+}
 
 /* </system> */
