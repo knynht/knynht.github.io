@@ -2,6 +2,13 @@
 
 @charset "utf-8";
 
+/*
+  Theme: Push-up
+  Author: Hatena Blog Team
+  Description: オピニオン系ブログを書いて欲しいテーマです
+  Responsive: yes
+ */
+
 body {
   font-size: 17px;
   color: #42424b;
@@ -1660,7 +1667,7 @@ p.index-title {
   font-weight: normal;
 }
 
-/* ソーシャルボタンのセンタリング */
+/* 記事下ソーシャルボタンのセンタリング */
 .social-buttons {
   text-align: center;
 }
@@ -1703,17 +1710,5 @@ border-radius: 64px;
   -moz-border-radius: 64px;
 }
 
-/* カラーアンダーライン */
-.yellow {
-    background: linear-gradient(transparent 40%, #FFF799 40%);
-}
-
-.red {
-    background: linear-gradient(transparent 40%, #F8C5AC 40%);
-}
-
-.blue {
-    background: linear-gradient(transparent 40%, #D3DEF1 40%);
-}
 
 /* </system> */
