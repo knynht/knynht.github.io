@@ -1710,5 +1710,14 @@ border-radius: 64px;
   -moz-border-radius: 64px;
 }
 
-
+/* カラーアンダーライン */
+.yellow {
+    background: linear-gradient(transparent 40%, #FFF799 40%);
+}
+.red {
+    background: linear-gradient(transparent 40%, #F8C5AC 40%);
+}
+.blue {
+    background: linear-gradient(transparent 40%, #D3DEF1 40%);
+}
 /* </system> */
