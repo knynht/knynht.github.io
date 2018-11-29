@@ -790,8 +790,10 @@ input::-moz-placeholder {
 }
 
 .entry-content blockquote {
-  border-left: 10px solid #f8f5f0;
-  padding: 0 0 0 15px
+  border-left: 10px solid #AEADAC;
+  font-weight: bolder;
+  background: #f8f5f0;
+  padding: 3px 0 3px 15px
 }
 
 @media screen and (max-width:750px) {
