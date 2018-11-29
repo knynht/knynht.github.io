@@ -1741,4 +1741,29 @@ border-radius: 64px;
 .entry-content h6 {
 	font-size: 100%;
 }
+
+p.index {
+  font-size: 90%;
+  background: url(http://f.st-hatena.com/images/fotolife/t/the-world-is-yours/20150822/20150822065909.jpg?1440194370) repeat left top;
+  -webkit-transition: none;
+  transition: none;
+  box-shadow: 3px 3px #FF6200;
+  padding:25px 50px 25px 50px;
+  width: 70%;
+  margin: 5px auto 20px auto;
+  border: 1px solid #909090;
+}
+
+/* カラーアンダーライン */
+.yellow {
+    background: linear-gradient(transparent 40%, #FFF799 40%);
+}
+
+.red {
+    background: linear-gradient(transparent 40%, #F8C5AC 40%);
+}
+
+.blue {
+    background: linear-gradient(transparent 40%, #D3DEF1 40%);
+}
 /* </system> */
