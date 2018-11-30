@@ -1783,4 +1783,10 @@ p.index {
 .hatena-citation{
     display:none;
 }
+
+@media screen and (max-width:750px) {
+  .breadcrumb-inner {
+    display:none;
+}
+}
 /* </system> */
