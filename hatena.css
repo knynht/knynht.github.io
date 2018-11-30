@@ -9,10 +9,13 @@
   Responsive: yes
  */
 
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
 body {
   font-size: 17px;
   color: #42424b;
-  font-family: Helvetica Neue, Segoe UI, sans-serif;
+  font-family: Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   background: #111;
   word-wrap: break-word;
   overflow-wrap: break-word
