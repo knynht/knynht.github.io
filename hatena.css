@@ -754,6 +754,7 @@ input::-moz-placeholder {
   color: #42424b
 }
 
+
 @media screen and (max-width:750px) {
   .entry-content h5 {
     font-size: 20px
@@ -798,8 +799,8 @@ input::-moz-placeholder {
 
 @media screen and (max-width:750px) {
   .entry-content blockquote {
-    border-left: 7px solid #f8f5f0;
-    padding: 0 0 0 5px;
+    border-left: 7px solid #CFCECD;
+    padding: 3px 5px 3px 10px;
     margin: 14px
   }
 }
@@ -1739,6 +1740,11 @@ border-radius: 64px;
 .entry-content h5 {
 	font-size: 110%;
 	border-bottom: 2px dotted #DDDDDD;
+}
+.entry-content h5:before {
+        content: "\2714 ";
+        font-size: 110%;
+        color: #FF8900;
 }
 .entry-content h6 {
 	font-size: 100%;
