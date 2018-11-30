@@ -821,7 +821,7 @@ input::-moz-placeholder {
 }
 
 .entry-content table td, .entry-content table th {
-  border: 1px solid #111;
+  border: 1px solid #ff8900;
   padding: 7px 14px;
   margin: 0
 }
@@ -834,7 +834,7 @@ input::-moz-placeholder {
 
 .entry-content table th {
   color: #fff;
-  background: #111
+  background: #575656
 }
 
 .entry-content table td {
