@@ -1752,14 +1752,12 @@ border-radius: 64px;
 
 p.index {
   font-size: 90%;
-  background: url(http://f.st-hatena.com/images/fotolife/t/the-world-is-yours/20150822/20150822065909.jpg?1440194370) repeat left top;
-  -webkit-transition: none;
-  transition: none;
-  box-shadow: 3px 3px #FF6200;
+  background: #FFEFE5;
+
+  box-shadow: 3px 3px #FFB07F;
   padding:25px 50px 25px 50px;
   width: 70%;
   margin: 5px auto 20px auto;
-  border: 1px solid #909090;
 }
 
 /* カラーアンダーライン */
