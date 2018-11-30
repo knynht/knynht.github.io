@@ -833,11 +833,13 @@ input::-moz-placeholder {
 }
 
 .entry-content table th {
+  font-size: 95%;
   color: #fff;
   background: #575656
 }
 
 .entry-content table td {
+  font-size: 90%;
   background: #f8f5f0
 }
 
