@@ -1772,4 +1772,8 @@ p.index {
 .blue {
     background: linear-gradient(transparent 40%, #D3DEF1 40%);
 }
+
+.hatena-citation{
+    display:none;
+}
 /* </system> */
