@@ -879,7 +879,8 @@ input::-moz-placeholder {
   color: #0e0f10;
   text-align: center;
   width: 150px;
-  margin: 0 auto 50px;
+  border-bottom: 5px double #FE7A00;
+  margin: 0 auto 5px;
   position: relative
 }
 
@@ -1789,4 +1790,6 @@ p.index {
     display:none;
 }
 }
+
+
 /* </system> */
