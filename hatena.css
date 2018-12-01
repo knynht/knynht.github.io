@@ -1791,5 +1791,10 @@ p.index {
 }
 }
 
-
+.alert {
+  padding: 0.5em;
+  margin: 1em 0;
+  background-color: #FEECDB;
+  border-left: 6px solid #FEA14C;
+}
 /* </system> */
