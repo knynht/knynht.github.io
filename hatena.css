@@ -1797,4 +1797,12 @@ p.index {
 }
 }
 
+.hatena-module-category .hatena-urllist li {
+  display:inline-block;
+  font-size: 80%;
+  margin:-10px 5px -10px 0;
+  border-bottom: none;
+  line-height: 0.8em;
+}
+
 /* </system> */
