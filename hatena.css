@@ -1811,4 +1811,18 @@ p.index {
   line-height: 0.8em;
 }
 
+.alert-box {
+  line-height: 1.5;
+  font-size: 13px;
+  color: #242527;
+  border-left: 5px solid #dde5e8;
+  padding: 1.2em 1em 1.2em 40px;
+  margin: 1em 0;
+  min-height: 1em;
+  background: #fff url(/images/admin/message/message-info.svg?version=3a4b058b5cb9eabcff344b7ffd43197c543ddca9) no-repeat 10px 1em;
+  background-size: 22px 22px;
+  border-left-color: #FC6220;
+  background-image: url(/images/admin/message/message-alert.svg?version=03060533da3fbc0618b95a442c2adc774c120303);
+  background-color: #FEF2ED;
+}
 /* </system> */
