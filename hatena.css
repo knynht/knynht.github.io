@@ -429,7 +429,7 @@ input::-moz-placeholder {
   -ms-flex-align: center;
   align-items: center;
   color: #fff;
-  height: 400px;
+  height: 200px;
   box-sizing: border-box;
   padding: 0 0 37px
 }
