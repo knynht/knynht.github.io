@@ -1401,13 +1401,13 @@ input::-moz-placeholder {
 
 @media screen and (max-width:1000px) {
   .page-index #blog-title-content h1 {
-    font-size: 80px
+    font-size: 10vw
   }
 }
 
 @media screen and (max-width:750px) {
   .page-index #blog-title-content h1 {
-    font-size: 50px;
+    font-size: 10vw;
     margin: 0 14px 35px;
     padding: 0
   }
@@ -1415,7 +1415,7 @@ input::-moz-placeholder {
 
 @media screen and (max-width:400px) {
   .page-index #blog-title-content h1 {
-    font-size: 45px
+    font-size: 10vw;
   }
 }
 
@@ -1819,10 +1819,10 @@ p.index {
   padding: 1.2em 1em 1.2em 40px;
   margin: 1em 0;
   min-height: 1em;
-  background: #fff url(/images/admin/message/message-info.svg?version=3a4b058b5cb9eabcff344b7ffd43197c543ddca9) no-repeat 10px 1em;
+  background: #fff url('https://cdn.blog.st-hatena.com/images/admin/message/message-info.svg?version=3a4b058b5cb9eabcff344b7ffd43197c543ddca9&env=production') no-repeat 10px 1em;
   background-size: 22px 22px;
   border-left-color: #FC6220;
-  background-image: url(/images/admin/message/message-alert.svg?version=03060533da3fbc0618b95a442c2adc774c120303);
+  background-image: url('https://cdn.blog.st-hatena.com/images/admin/message/message-alert.svg?version=03060533da3fbc0618b95a442c2adc774c120303&env=production');
   background-color: #FEF2ED;
 }
 /* </system> */
