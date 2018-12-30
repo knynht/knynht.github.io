@@ -1377,7 +1377,7 @@ input::-moz-placeholder {
 
 @media screen and (max-width:750px) {
   .page-index #blog-title {
-    min-height: 400px;
+    max-height: 150px;
     background-size: cover
   }
 }
