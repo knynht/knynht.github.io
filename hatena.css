@@ -466,7 +466,6 @@ input::-moz-placeholder {
   max-width: 800px;
   font-size: 40px;
   line-height: 1.1;
-  margin: 0 50px 30px;
   display: inline-block;
   position: relative
 }
