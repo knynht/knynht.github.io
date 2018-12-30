@@ -451,7 +451,7 @@ input::-moz-placeholder {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  height: 120px;
+  height: 200px;
   width: 90%
 }
 
@@ -472,7 +472,7 @@ input::-moz-placeholder {
 
 @media screen and (max-width:750px) {
   #blog-title h1 {
-    font-size: 20px;
+    font-size: 30px;
     margin: 0 20px 20px
   }
 }
@@ -1376,7 +1376,7 @@ input::-moz-placeholder {
 
 @media screen and (max-width:750px) {
   .page-index #blog-title {
-    max-height: 150px;
+    max-height: 100px;
     background-size: cover
   }
 }
