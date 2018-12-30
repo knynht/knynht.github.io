@@ -1370,8 +1370,8 @@ input::-moz-placeholder {
 }
 
 .page-index #blog-title {
-  height: 80vh;
-  min-height: 600px;
+  height: 40vh;
+  min-height: 200px;
   padding: 37px 0
 }
 
