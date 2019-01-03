@@ -1761,15 +1761,17 @@ p.index {
   padding:25px 50px 25px 50px;
   width: 70%;
   margin: 5px auto 20px auto;
+  white-space: nowrap;
 }
 @media screen and (max-width:750px) {
   p.index {
-  font-size: 90%;
+  font-size: 80%;
   background: #FFEFE5;
   box-shadow: 3px 3px #FFB07F;
   padding:25px 10px 25px 10px;
   width: 95%;
   margin: 5px auto 20px auto;
+  white-space: nowrap;
 　　}
 }
 
