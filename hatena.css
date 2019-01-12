@@ -1915,6 +1915,8 @@ right: -84px;
 left: -84px;
 }
 }
-.ore::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112092840.jpg);}
+.ore-ai::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112092840.jpg);}
+.ore-do::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112111922.jpg);}
+.ore-w::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112111920.jpg);}
 .trump::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112093149.jpg);}
 /* </system> */
