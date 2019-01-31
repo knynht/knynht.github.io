@@ -1107,7 +1107,7 @@ input::-moz-placeholder {
   background: #ff6c00
 }
 
-#box2-inner .hatena-module:nth-child(3n) {
+#box2-inner .hatena-module:nth-child(1) {
   background: #636363
 }
 
@@ -1920,6 +1920,7 @@ left: -84px;
 .ore-w::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112111920.jpg);}
 .trump::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190112/20190112093149.jpg);}
 .yucho::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190119/20190119092957.jpg);}
+.suyama::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/K/KCYS/20190126/20190126162019.jpg);}
 
 /*上に戻るボタン関係*/
 #page-top {
